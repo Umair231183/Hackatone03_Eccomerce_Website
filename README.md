@@ -1,7 +1,7 @@
 # Hackathon-03-Document  
 # Furniture E-commerce Website  
-**Author:** Ayesha Muhammad Ashraf  
-**Role:** Rising Star, Chair Haven Online  
+**Author:** Umair 
+**Role:** Chair   
 
 ---
 
